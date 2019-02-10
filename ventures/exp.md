@@ -12,17 +12,17 @@ EXP runs events, conferences and hosts retreats within the Enspiral network - al
 
 **Contact Person**
 
-Ants Cabraal
+Silvia Zuur
 
 **Links to website or other resources**
 
-exp.agency
+www.exp.agency
 
-**Latest Quarterly Update**
+**Quarterly Update**
 
-* *date updated*
+July 2016
 
-*'your quarter in one sentence'*
+* Our first three months of business at EXP - whoop! So far so good. 
 
 **Founding Date & Brief History**
 
@@ -51,14 +51,17 @@ When people connect, the world changes.
 
 **Enspiral Foundation Contribution**
 
+* $200+gst/month contribution to the Enspiral Foundation
+
 * Running big high profile events for the network. 
 
 * Running retreats for the network. 
 
-* % revenue from consulting. % financial from events is still TBC but there will be something. 
 
 **Asks to Enspiral**
 
-Help promote OS//OS. 
+* Pass on facilitation contracts to us
+
+* Help us promote our events
 
 
